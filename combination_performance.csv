@@ -1,0 +1,5 @@
+delivery_region,courier_partner,total_orders,delayed_orders,avg_delay_days,delay_rate_%
+East,DeliverIT,2,1,1.5,50.0
+North,FastX,2,2,1.5,100.0
+South,QuickShip,2,1,1.0,50.0
+West,ShipNow,2,1,1.0,50.0

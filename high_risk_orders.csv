@@ -1,0 +1,4 @@
+order_id,delivery_region,courier_partner,delay_days,penalty,order_value
+3,East,DeliverIT,3,600,3000
+5,North,FastX,2,300,4000
+8,West,ShipNow,2,400,3500

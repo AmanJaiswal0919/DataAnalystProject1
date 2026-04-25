@@ -1,0 +1,5 @@
+delivery_region,courier_partner,total_penalty_by_region
+East,DeliverIT,600
+North,FastX,450
+South,QuickShip,200
+West,ShipNow,400

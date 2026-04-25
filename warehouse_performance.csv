@@ -1,0 +1,5 @@
+warehouse_location,total_orders,delayed_orders,total_penalty_by_region,delay_rate_%
+Bangalore_WH,2,1,200,50.0
+Delhi_WH,2,2,450,100.0
+Kolkata_WH,2,1,600,50.0
+Mumbai_WH,2,1,400,50.0

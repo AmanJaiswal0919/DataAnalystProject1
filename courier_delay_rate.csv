@@ -1,0 +1,5 @@
+courier_partner,total_orders,delayed_orders,delay_rate_%
+DeliverIT,2,1,50.0
+FastX,2,2,100.0
+QuickShip,2,1,50.0
+ShipNow,2,1,50.0
